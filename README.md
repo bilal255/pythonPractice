@@ -1,0 +1,1 @@
+This repo contain my first (not actually) python practice work. I am going to learn more about Python.
