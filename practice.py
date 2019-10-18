@@ -13,14 +13,15 @@ def calculator (num1 , num2 , oper):
         return num1%num2
 
     
-#declaring two vars and one operator character variable and operator
-a = int(input("Enter 2st number"))
-b = int (input("Enter 2nd Number"))
+#declaring two vars and one operator character variable
+v1 = int(input("Enter 1st number"))
+v2 = int (input("Enter 2nd Number"))
+#op stores and shows the output of the result
 op = char(input("Enter the operator")
 
-#calling calculator function to calculatr the result of expression and printing result
+#calling calculator function to calculate the result of expression and printing result
 result = calculator(a ,b ,op)
  
-#Prinintg result
+#Printing result
 print(result)
-
+#pragma once
